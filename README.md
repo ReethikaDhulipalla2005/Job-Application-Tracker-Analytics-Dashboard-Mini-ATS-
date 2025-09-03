@@ -15,17 +15,23 @@ Timestamps: Automatically adds createdAt and updatedAt</p>
 
 <h4>Libraries Used:-</h4>
 <p>Frontend:-
-React – UI framework
-TailwindCSS – Styling components
-framer-motion – Drag-and-drop functionality for Kanban board
-recharts – Charts for analytics dashboard
+<ul>
+<li>React – UI framework</li>
+<li>TailwindCSS – Styling components</li>
+<li>framer-motion – Drag-and-drop functionality for Kanban board</li>
+<li>recharts – Charts for analytics dashboard</li>
+</ul>
 
 Backend:-
-Node.js – Server runtime
-Express.js – Web framework for API routes
+<ul>
+ <li>Node.js – Server runtime</li>
+ <li>Express.js – Web framework for API routes</li>
+</ul>
 
 Database:-
-MongoDB Atlas – Store and fetch application data</p>
+<ul><li>MongoDB Atlas – Store and fetch application data</li></ul>
+</p>
+
 
 
 
