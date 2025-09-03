@@ -14,6 +14,18 @@ Timestamps: Automatically adds createdAt and updatedAt</p>
 <h4>Deployed in </h4>
 
 <h4>Libraries Used:-</h4>
-<p></p>
+<p>Frontend:-
+React – UI framework
+TailwindCSS – Styling components
+framer-motion – Drag-and-drop functionality for Kanban board
+recharts – Charts for analytics dashboard
+
+Backend:-
+Node.js – Server runtime
+Express.js – Web framework for API routes
+
+Database:-
+MongoDB Atlas – Store and fetch application data</p>
+
 
 
