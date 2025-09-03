@@ -4,6 +4,16 @@
  <p>The Job Application Tracker + Analytics Dashboard (Mini ATS) is a MERN stack project that helps recruiters manage and analyze job applications. It features a Kanban board (Applied → Interview → Offer → Rejected) with drag-and-drop, forms for adding applications. An analytics dashboard shows stage-wise counts, role breakdowns, and average experience using dynamic charts. The frontend (React + Tailwind) handles UI and API calls, the backend (Node.js + Express) provides CRUD and analytics endpoints, and the database (MongoDB) stores applications with aggregation for insights.</p>
 
  <h4>Database Schema:-</h4>
+<p>candidateName: String, required – applicant’s name
+role: String, required – applied job position
+yearsExperience: Number, required – experience in years
+resumeLink: String, required – link to resume
+status: String, enum ["Applied", "Interview", "Offer", "Rejected"], default "Applied" – current application stage
+Timestamps: Automatically adds createdAt and updatedAt</p>
 
+<h4>Deployed in </h4>
+
+<h4>Libraries Used:-</h4>
+<p></p>
 
 
