@@ -11,9 +11,9 @@ resumeLink: String, required – link to resume
 status: String, enum ["Applied", "Interview", "Offer", "Rejected"], default "Applied" – current application stage
 Timestamps: Automatically adds createdAt and updatedAt</p>
 
-<h4>DEPLOYMENT:- </h4>
+<--<h4>DEPLOYMENT:- </h4>
 <p>CLIENT:- </p>
-<p>SERVER:- https://job-application-tracker-analytics-d.vercel.app/</p>
+<p>SERVER:- https://job-application-tracker-analytics-d.vercel.app/</p>-->
 
 <h4>LIBRARIES USED:-</h4>
 <p>Frontend:-
@@ -36,6 +36,7 @@ Database:-
 
 <h4>DEMO VIDEO LINK:-</h4>
 <p>file:///C:/Users/Dell/OneDrive/Documents/Zoom/2025-08-28%2022.29.59%20reethika%20dhulipalla%20_%20AP22110011356's%20Personal%20Meeting%20Room/video2163658453.mp4</p>
+
 
 
 
